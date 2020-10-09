@@ -13,10 +13,12 @@ namespace _09._Extract_Middle_Elements
 
             for (int i = 0; i < input.Length; i++)
             {
-                if (input[i] == '(')
-                {
-                    expressionFinder.Push(i);
-                }
+                // if (input[i] == '(')
+                // {
+                //     expressionFinder.Push(i);
+                // }
+
+                //uncoment on the next hacktoberfest 
 
                 if (input[i] == ')')
                 {
