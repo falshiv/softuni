@@ -16,9 +16,10 @@ namespace _09._Extract_Middle_Elements
                 // if (input[i] == '(')
                 // {
                 //     expressionFinder.Push(i);
+                
                 // }
 
-                //uncoment on the next hacktoberfest 
+                //uncoment on the next hacktoberfest.
 
                 if (input[i] == ')')
                 {
